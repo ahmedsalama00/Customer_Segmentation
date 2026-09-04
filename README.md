@@ -1,8 +1,4 @@
-# 🛍️ Customer Segmentation ML Project — Cohort A3 Group 01
-
-**Course**: AI Engineering Track (Machine Learning Module)  
-**Instructor**: Hozaifa Moustafa (Arabian Academy)  
-**Group**: `a3-g01` (Cohort A3 — Tue/Sat)  
+# 🛍️ Customer Segmentation ML Project 
 **Notebook**: [`customer_segmentation.ipynb`](customer_segmentation.ipynb)
 
 ---
